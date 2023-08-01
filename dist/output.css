@@ -824,15 +824,15 @@ video {
 }
 
 .bg-all-content {
-  background-image: url('/dist/images/allcontent.png');
+  background-image: url('dist/images/allcontent.png');
 }
 
 .bg-feature {
-  background-image: url('/dist/images/feature_bg.png');
+  background-image: url('dist/images/feature_bg.png');
 }
 
 .bg-hero-gradient {
-  background-image: url('/dist/images/header_bg.png');
+  background-image: url('dist/images/header_bg.png');
 }
 
 .bg-cover {
