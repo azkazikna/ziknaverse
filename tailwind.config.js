@@ -7,9 +7,9 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'hero-gradient': "url('./dist/images/header_bg.png')",
-        'all-content': "url('./dist/images/allcontent.png')",
-        'feature': "url('./dist/images/feature_bg.png')",
+        'hero-gradient': "url('./images/header_bg.png')",
+        'all-content': "url('./images/allcontent.png')",
+        'feature': "url('./images/feature_bg.png')",
       },
       animation: {
         'bounce-slow': 'bounce 3s linear infinite',
